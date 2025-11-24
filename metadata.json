@@ -1,0 +1,7 @@
+{
+  "name": "Robo AI - GeoNarrative Audio Weaver",
+  "description": "A futuristic app that weaves real-time location data and AI to generate immersive audio stories based on your surroundings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
